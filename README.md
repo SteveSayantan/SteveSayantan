@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkLwub_VjMiCtY8iuxBfUUyn2PE1k6c0rpbw&usqp=CAU)](https://stevesayantan.io)-->
 <h1 align="center">Hi 👋, I'm Sayantan Manna</h1>
 <h3 align="center">A student on his way to become a developer 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="285" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/stevesayantan" target="blank"><img src="https://img.shields.io/twitter/follow/stevesayantan?logo=twitter&style=for-the-badge" alt="stevesayantan" /></a> </p>
 
