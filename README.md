@@ -3,8 +3,6 @@
 <h3 align="center">A student on his way to become a developer 💻</h3>
 <img align="right" alt="Coding" width="285" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/stevesayantan" target="blank"><img src="https://img.shields.io/twitter/follow/stevesayantan?logo=twitter&style=for-the-badge" alt="stevesayantan" /></a> </p>
-
 - 🌱 I’m currently learning **React, NodeJS**
 
 - 📫 How to reach me **sayantanmanna06@gmail.com**
